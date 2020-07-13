@@ -1,5 +1,5 @@
 {
-  "name": "react-sortable-tree",
+  "name": "@solidpixels/react-sortable-tree",
   "version": "2.7.1",
   "description": "Drag-and-drop sortable component for nested data and hierarchies",
   "scripts": {
