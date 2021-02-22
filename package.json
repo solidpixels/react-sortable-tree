@@ -1,6 +1,6 @@
 {
   "name": "@solidpixels/react-sortable-tree",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "description": "Drag-and-drop sortable component for nested data and hierarchies",
   "scripts": {
     "start": "parcel website/index.html",
